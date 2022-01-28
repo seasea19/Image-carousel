@@ -5,7 +5,7 @@ Image Carousel is a holder (slideshow) of pictures that user can choose by click
 
 User Stories The following required functionality is completed:
 
-[] User can go back and forth with the pictures.
+[✓] User can go back and forth with the pictures.
 
 Here's a walkthrough of implemented user stories:
 
