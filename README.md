@@ -2,7 +2,6 @@
  
 Image Carousel is a holder (slideshow) of pictures that user can choose by clicking a button that guides them forward or in reverse in the slideshow.
 
-Submitted by: Chelsea Alcinord
 
 User Stories The following required functionality is completed:
 
